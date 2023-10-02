@@ -68,7 +68,7 @@ public class Main {
         people = people + 94;
         System.out.println(people);
         var stundenTag = hour / people;
-        System.out.println("Wenn im Betrib " + people +  " arbeiten, dann kann jeder Mitarbeiter "  + stundenTag +  " stunden arbeiten ");
+        System.out.println("Wenn im Betrieb " + people +  " arbeiten, dann kann jeder Mitarbeiter "  + stundenTag +  " stunden arbeiten ");
 
 
 
